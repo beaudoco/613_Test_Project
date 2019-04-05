@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Mutiny</string>
+    <string name="login">Login</string>
+    <string name="create_user">Create User</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="firstName">First Name</string>
+    <string name="createAccount">Create Account</string>
+    <string name="join">Join Us</string>
+    <string name="die">Or Die</string>
+    <string name="welcome_to_mutiny">Welcome to Mutiny</string>
+    <string name="go_home">Log Out</string>
+    <string name="triangle">Triangle?</string>
+    <string name="calculate">Calculate</string>
+    <string name="third_side">Third Side</string>
+    <string name="second_side">Second Side</string>
+    <string name="todo">TODO</string>
+    <string name="first_side">First Side</string>
+</resources>
